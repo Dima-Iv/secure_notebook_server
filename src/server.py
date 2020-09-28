@@ -5,7 +5,7 @@ from random import random
 
 import rsa
 
-dir_for_clients_files = 'E:/учеба/КБРС/Lab_2/clients_files/'
+dir_for_clients_files = 'clients_files/'
 host = 'localhost'
 port = 8007
 count_of_clients = 10
